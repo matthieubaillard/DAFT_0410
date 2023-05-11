@@ -1,0 +1,8 @@
+5 - Playing a game at home gives a clear advantage, with 13+% more chance to win the game. (NB: instructions request side bar charts, but a stacked bar chart allows for a clearer visualization of the advantage given by the home location).
+
+7 - Which team in 2016 had the highest percent of pass completions? Minnesota Vikings (70.3%)
+
+8 - NB: I chose to reverse the requested color palette so that it is more consistent with the previous graphs (where red = win).
+
+Link to the Dashboard on Tableau Public :
+https://public.tableau.com/app/profile/matthieu.baillard/viz/Lab_24_DataViz_NFL/NFLStatDashboard
