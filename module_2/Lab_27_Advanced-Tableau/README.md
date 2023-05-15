@@ -13,7 +13,9 @@ In this lab, we will practice more in Business Intelligence in Tableau
 1. Download the dataset.
 2. Connect the data in Tableau
 3. Answer the following questions using only Tableau. 
-4. Save each answer as a widget. 
+4. Save each answer as a widget:
+https://public.tableau.com/app/profile/matthieu.baillard/viz/Lab27_AdvancedTableau_BI/Dashboard1?publish=yes
+
 5. Save answer in the readme **(chosen answers are highlighted in bold)**
 
 Questions:
