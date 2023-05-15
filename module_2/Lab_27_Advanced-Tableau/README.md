@@ -1,6 +1,6 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-# Lab | Advanced Tableau
+# Lab 27 | Advanced Tableau
 
 ## Introduction
 
@@ -14,10 +14,12 @@ In this lab, we will practice more in Business Intelligence in Tableau
 2. Connect the data in Tableau
 3. Answer the following questions using only Tableau. 
 4. Save each answer as a widget. 
-5. Save answer in the readme
+5. Save answer in the readme **(chosen answers are highlighted in bold)**
 
 Questions:
 1. What is the percent of total Sales for the ‘Home Office’ Customer Segment in July of 2012?
+
+**Order date as column, Customer segments as rows, Month of Order Date July 2011 as Filter, Sales Sum as Text labels + Quick Calculation on Percent of Total gives me 24.47% of  Total sales for that month(?)**
 
 a. 23.50%
 
@@ -31,27 +33,28 @@ d. 32.56%
 & West regions in 2011?
 
 a. Riverside Palais Royal Lawyers Bookcase
-
 b. Bush Mission Pointe Library
 
-c. Sharp AL-1530CS Digital Copier
+**c. Sharp AL-1530CS Digital Copier**
 
 d. Global Troy Executive Leather Low Back Tilter
+
 3. In the Technology Product Category, which unprofitable state is surrounded by only profitable states?
 
-a. Colorado
+**a. Colorado** (unprofitable in the tech category, and surrounded by profitable states. This is also the case of Montana and North Carolina)
 
-b. Missouri
+b. Missouri (profitable)
 
-c. Wyoming
+c. Wyoming (profitable)
 
-d. Utah
+d. Utah (profitable)
+
 4. If 2013 Sales numbers were expected to increase by 50% in the following year, what would be the total
 estimated sales for the Consumer Segment in 2014?
 
-a. $4,278,540
+**b. $816,999** (544,666 x 1.5)
 
-b. $816,999
+a. $4,278,540
 
 c. $2,752,823
 
@@ -65,7 +68,7 @@ b. Central
 
 c. East
 
-d. South
+**d. South**
 
 e. West
 
@@ -75,7 +78,7 @@ a. Tables
 
 b. Chairs & Chairmats
 
-c. Paper
+**c. Paper**
 
 d. Binders and Binder Accessories
 
@@ -87,12 +90,11 @@ b. 1%
 
 c. -17.54%
 
-d. -771.39%
+**d. -771.39%** (Dean Solomon)
 
-8. Determine which State in the Central Region has the highest distribution of profits using interquartile
-ranges.
+8. Determine which State in the Central Region has the highest distribution of profits using interquartile ranges.
 
-a. South Dakota
+**a. South Dakota**
 
 b. North Dakota
 
@@ -100,14 +102,13 @@ c. Minnesota
 
 d. Iowa
 
-9. Look at the sum of profits for each Product Sub-Category. Which sub-category is $31,069 below the
-average profit across all categories?
+9. Look at the sum of profits for each Product Sub-Category. Which sub-category is $31,069 below the average profit across all categories?
 
 a. Appliances
 
 b. Bookcases
 
-c. Envelopes
+**c. Envelopes** (Average 77202 - 31069 = 46133)
 
 d. Paper
 
@@ -115,7 +116,7 @@ d. Paper
 
 a. 3.50%
 
-b. 5.03%
+**b. 5.03%**
 
 c. 17.54%
 
@@ -127,7 +128,7 @@ a. $101,752
 
 b. $180,036
 
-c. $188,552
+**c. $188,552**
 
 d. $286,170
 
@@ -138,15 +139,15 @@ a. 1,000
 
 b. 3,000
 
-c. 7,000
+**c. 7,000**
 
-d. 8,000
+**d. 8,000**
 
 e. 10,000
 
-f. 11,000
+**f. 11,000**
 
-g. 18,000
+**g. 18,000**
 
 
 ## Part 2
